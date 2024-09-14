@@ -1,6 +1,8 @@
 use rand::Rng;
 use std::{cmp, io};
 
+//#[expect(dead_code)]
+#[allow(dead_code)]
 pub fn test() {
     println!("Guess the number!");
 
