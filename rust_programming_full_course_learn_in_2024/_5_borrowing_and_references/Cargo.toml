@@ -1,5 +1,5 @@
 [package]
-name = "rust_programming_full_course_learn_in_2024"
+name = "borrowing_and_references"
 version = "0.0.1"
 edition = "2021"
 
