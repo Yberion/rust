@@ -1,4 +1,4 @@
 [package]
-name = "the_rust_programming_language"
+name = "building_a_command_line_program"
 version = "0.0.1"
 edition = "2021"

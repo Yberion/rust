@@ -1,0 +1,6 @@
+[workspace.package]
+edition = "2021"
+
+[workspace]
+resolver = "2"
+members = ["the_rust_programming_language/*", "rust_programming_full_course_learn_in_2024/*"]
